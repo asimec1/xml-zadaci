@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<Osoba spol="M">
+	<Ime>Marko</Ime>
+	<Prezime>Perina</Prezime>
+	<MjestoStanovanja>
+		<Adresa>Ulica Petra Marola</Adresa>
+		<Grad>Zagreb</Grad>
+		<Drzava>Hrvatska</Drzava>
+	</MjestoStanovanja>
+	<Kontakt>
+		<Mobitel>098/111-222</Mobitel>
+		<KucniTelefon>01/123-456</KucniTelefon>
+		<Email>email@email.com</Email>
+	</Kontakt>
+</Osoba>
