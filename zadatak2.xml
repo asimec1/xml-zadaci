@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Narudzba>
+	<Ime>Marko</Ime>
+	<Prezime>Perina</Prezime>
+	<MjestoStanovanja>
+		<Adresa>Ulica Petra Marola</Adresa>
+		<Grad>Zagreb</Grad>
+		<Drzava>Hrvatska</Drzava>
+	</MjestoStanovanja>
+	<NaruceniArtikl>
+		<Naziv>Bicikl</Naziv>
+		<Biljeska>Plavi</Biljeska>
+		<Kolicina>1</Kolicina>
+		<Cijena>1500.99</Cijena>
+	</NaruceniArtikl>
+	<NaruceniArtikl>
+		<Naziv>Prazni DVD</Naziv>
+		<Kolicina>25</Kolicina>
+		<Cijena>58.99</Cijena>
+	</NaruceniArtikl>
+</Narudzba>
