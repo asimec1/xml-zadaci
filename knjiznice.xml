@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- XML dokument knjižnica prema zadanoj tablici -->
+<knjiznice>
+    <knjiznica naziv="Gradska" adresa="Ilica 20, Zagreb">
+        <knjiga>
+            <naslov>Na Drini ćuprija</naslov>
+            <autor>Ivo Andrić</autor>
+            <godina>1945</godina>
+            <zanr>Roman</zanr>
+            <primjerci>5</primjerci>
+        </knjiga>
+        <!-- ostale knjige... -->
+    </knjiznica>
+    <!-- ostale knjižnice... -->
+</knjiznice>
