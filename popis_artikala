@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<narudzbe>
+    <narudzba id="1001">
+        <kupac>Ana Horvat</kupac>
+        <datum>2025-03-20</datum>
+        <artikli>
+            <artikl>
+                <naziv>USB Stick 16GB</naziv>
+                <kolicina>2</kolicina>
+                <cijena valuta="EUR">12.50</cijena>
+            </artikl>
+            <artikl>
+                <naziv>Tipkovnica</naziv>
+                <kolicina>1</kolicina>
+                <cijena valuta="EUR">25.00</cijena>
+            </artikl>
+        </artikli>
+    </narudzba>
+
+    <narudzba id="1002">
+        <kupac>Luka Marić</kupac>
+        <datum>2025-03-21</datum>
+        <artikli>
+            <artikl>
+                <naziv>Monitor 24"</naziv>
+                <kolicina>2</kolicina>
+                <cijena valuta="EUR">150.00</cijena>
+            </artikl>
+        </artikli>
+    </narudzba>
+
+    <narudzba id="1003">
+        <kupac>Ivana Šimić</kupac>
+        <datum>2025-03-22</datum>
+        <artikli>
+            <artikl>
+                <naziv>Miš bežični</naziv>
+                <kolicina>1</kolicina>
+                <cijena valuta="EUR">15.99</cijena>
+            </artikl>
+            <artikl>
+                <naziv>USB Stick 32GB</naziv>
+                <kolicina>3</kolicina>
+                <cijena valuta="EUR">18.00</cijena>
+            </artikl>
+        </artikli>
+    </narudzba>
+</narudzbe>
