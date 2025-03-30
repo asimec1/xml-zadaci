@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE knjiznica SYSTEM "knjiznica.dtd">
+<knjiznica>
+  <knjiga id="k1">
+    <naslov>Na Drini ćuprija</naslov>
+    <autor>Ivo Andrić</autor>
+    <godina>1945</godina>
+  </knjiga>
+  <knjiga id="k2">
+    <naslov>Zločin i kazna</naslov>
+    <autor>Fjodor Dostojevski</autor>
+    <godina>1866</godina>
+  </knjiga>
+</knjiznica>
